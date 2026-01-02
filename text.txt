@@ -2,3 +2,4 @@ Hello!
 This is second edit!
 This is third edit!
 One more try!
+We fixed the bug!
